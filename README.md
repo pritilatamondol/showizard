@@ -3,7 +3,7 @@ Get perfect shadows every time for the non-designer
 
 # Instalattion
 
-`npm i shadowizard --save`
+`npm i shadowizardy --save`
 Then......
 ```
 import { shadowizard } from 'shadowizard';
