@@ -4,6 +4,8 @@ Get perfect shadows every time for the non-designer
 # Instalattion
 
 `npm i pritifirstwizard --save`
+
+
 Then......
 ```
 import { shadowizard } from 'pritifirstwizard';
